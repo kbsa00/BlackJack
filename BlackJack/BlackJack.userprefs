@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{131B051B-CE5F-4EDC-8F61-B257878A9C82}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlackJack/Player.cs">
+    <Files>
+      <File FileName="BlackJack/Dealer.cs" Line="1" Column="1" />
+      <File FileName="BlackJack/Player.cs" Line="37" Column="17" />
+      <File FileName="BlackJack/Program.cs" Line="1" Column="1" />
+      <File FileName="BlackJack/Card.cs" Line="19" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -10,15 +10,28 @@ namespace BlackJack
 {
     class Program { 
 
-         //TODO 1. FIX ARRAY CLASS CARD, 2. GO THROUGH IF EVERYTHING IS CORRECT WITH THE DEALERS HAND, 3. IMPLEMENT PLACEBETS.
+         
         static void Main(string[] args)
         {
+           
+            Console.WriteLine("WELCOME TO A GAME OF BLACKJACK\n");
             var card = new Card();
             var player = new Player();
-            card.readFile();
             player.PlayerDrawCard();
-            Console.ReadKey(true); 
 
+            Console.WriteLine("Do you feel like playing another round? (yes/no): ");
+            string answer = Console.ReadLine().ToLower();
+            
+            if (answer.Equals("yes"))
+            {
+                player.PlayerDrawCard();
+                
+            }
+            else
+            {
+                Console.WriteLine("Thanks for Playing");
+                Environment.Exit(0);
+            }
 
         }
     }

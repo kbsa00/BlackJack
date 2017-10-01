@@ -1,7 +1,14 @@
-c:\users\eier\Desktop\Software Design\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
-c:\users\eier\Desktop\Software Design\BlackJack\BlackJack\bin\Debug\BlackJack.exe
-c:\users\eier\Desktop\Software Design\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
-c:\users\eier\Desktop\Software Design\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
-c:\users\eier\Desktop\Software Design\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
-c:\users\eier\Desktop\Software Design\BlackJack\BlackJack\obj\Debug\BlackJack.exe
-c:\users\eier\Desktop\Software Design\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
+c:/users/eier/Desktop/Software Design/BlackJack/BlackJack/bin/Debug/BlackJack.exe.config
+c:/users/eier/Desktop/Software Design/BlackJack/BlackJack/bin/Debug/BlackJack.exe
+c:/users/eier/Desktop/Software Design/BlackJack/BlackJack/bin/Debug/BlackJack.pdb
+c:/users/eier/Desktop/Software Design/BlackJack/BlackJack/obj/Debug/BlackJack.csprojResolveAssemblyReference.cache
+c:/users/eier/Desktop/Software Design/BlackJack/BlackJack/obj/Debug/BlackJack.csproj.CoreCompileInputs.cache
+c:/users/eier/Desktop/Software Design/BlackJack/BlackJack/obj/Debug/BlackJack.exe
+c:/users/eier/Desktop/Software Design/BlackJack/BlackJack/obj/Debug/BlackJack.pdb
+/Users/khalid_bs/Desktop/GITHUB/BlackJack/BlackJack/BlackJack/bin/Debug/BlackJack.exe.config
+/Users/khalid_bs/Desktop/GITHUB/BlackJack/BlackJack/BlackJack/bin/Debug/BlackJack.exe
+/Users/khalid_bs/Desktop/GITHUB/BlackJack/BlackJack/BlackJack/bin/Debug/BlackJack.pdb
+/Users/khalid_bs/Desktop/GITHUB/BlackJack/BlackJack/BlackJack/obj/Debug/BlackJack.csprojResolveAssemblyReference.cache
+/Users/khalid_bs/Desktop/GITHUB/BlackJack/BlackJack/BlackJack/obj/Debug/BlackJack.csproj.CoreCompileInputs.cache
+/Users/khalid_bs/Desktop/GITHUB/BlackJack/BlackJack/BlackJack/obj/Debug/BlackJack.exe
+/Users/khalid_bs/Desktop/GITHUB/BlackJack/BlackJack/BlackJack/obj/Debug/BlackJack.pdb
