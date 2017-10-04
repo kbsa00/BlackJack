@@ -2,7 +2,7 @@
 
 namespace BlackJack
 {
-    public class Player : Card
+    class Player : Card
     {
         public static int sumOfCards;
         private string answer;
@@ -64,10 +64,6 @@ namespace BlackJack
                     dealer.DealerDrawCard(sumOfCards);   
                     break;
                 }
-               
-               
-               
-               
                
             }
             

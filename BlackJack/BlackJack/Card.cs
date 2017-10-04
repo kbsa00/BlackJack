@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 namespace BlackJack
 {
 
-    public class Card
+     class Card
     {
 
         private string[] carddeck = new string[13];

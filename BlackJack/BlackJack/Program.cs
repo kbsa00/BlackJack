@@ -24,7 +24,9 @@ namespace BlackJack
             
             if (answer.Equals("yes"))
             {
-                player.PlayerDrawCard();
+                var newgame = new Player();
+                
+                newgame.PlayerDrawCard();
                 
             }
             else

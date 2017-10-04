@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Threading; 
 namespace BlackJack
 {
-    public class Dealer : Card
+    class Dealer : Card
     {
         private int dealercard;
         public static int totalsum; 

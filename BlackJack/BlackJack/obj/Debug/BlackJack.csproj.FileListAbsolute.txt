@@ -12,3 +12,10 @@ c:/users/eier/Desktop/Software Design/BlackJack/BlackJack/obj/Debug/BlackJack.pd
 /Users/khalid_bs/Desktop/GITHUB/BlackJack/BlackJack/BlackJack/obj/Debug/BlackJack.csproj.CoreCompileInputs.cache
 /Users/khalid_bs/Desktop/GITHUB/BlackJack/BlackJack/BlackJack/obj/Debug/BlackJack.exe
 /Users/khalid_bs/Desktop/GITHUB/BlackJack/BlackJack/BlackJack/obj/Debug/BlackJack.pdb
+C:\Users\Eier\Desktop\GitHub\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.exe.config
+C:\Users\Eier\Desktop\GitHub\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.exe
+C:\Users\Eier\Desktop\GitHub\BlackJack\BlackJack\BlackJack\bin\Debug\BlackJack.pdb
+C:\Users\Eier\Desktop\GitHub\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.csprojResolveAssemblyReference.cache
+C:\Users\Eier\Desktop\GitHub\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\Eier\Desktop\GitHub\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.exe
+C:\Users\Eier\Desktop\GitHub\BlackJack\BlackJack\BlackJack\obj\Debug\BlackJack.pdb
