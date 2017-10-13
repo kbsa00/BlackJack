@@ -15,25 +15,29 @@ namespace BlackJack
         {
            
             Console.WriteLine("WELCOME TO A GAME OF BLACKJACK\n");
+            bool play = true;
+         
+            
+        
+            while (play)  {     
             var card = new Card();
             var player = new Player();
             player.PlayerDrawCard();
-
-            Console.WriteLine("Do you feel like playing another round? (yes/no): ");
-            string answer = Console.ReadLine().ToLower();
+            string answer;    
+            Console.WriteLine("Do you want to play another round, Please input (yes/no)");
+            answer = Console.ReadLine().ToLower();
+                
+              if (answer.Equals("yes")) {
+                    Console.WriteLine("\n\nDealer: SWEET, You want to play another round! :D ");
+                }
+               else
+                {
+                    break;
+                }
+            }
             
-            if (answer.Equals("yes"))
-            {
-                var newgame = new Player();
-                
-                newgame.PlayerDrawCard();
-                
-            }
-            else
-            {
-                Console.WriteLine("Thanks for Playing");
-                Environment.Exit(0);
-            }
+            Console.WriteLine("\n\nThanks for playing :D See you next time");
+            
 
         }
     }

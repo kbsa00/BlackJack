@@ -31,8 +31,16 @@ namespace BlackJack
                     Console.Write(".");
                     Thread.Sleep(500);
                 }
+                
                 Console.Write("\n");
                 dealercard = drawCard("hit");
+
+                if (dealercard == 1 && totalsum == 0)
+                {
+                    dealercard += 10; 
+
+                }
+                
                 totalsum += dealercard;
                 Console.WriteLine("\nThe total sum for the dealer is: " + totalsum);
                 

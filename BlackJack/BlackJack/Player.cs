@@ -64,7 +64,7 @@ namespace BlackJack
                     dealer.DealerDrawCard(sumOfCards);   
                     break;
                 }
-               
+                
             }
             
          }

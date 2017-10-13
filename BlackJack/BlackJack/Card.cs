@@ -22,7 +22,6 @@ namespace BlackJack
             while ((line = reader.ReadLine()) != null)
             {
                 carddeck[index] = line; 
-                
                 index++;
             }
 
