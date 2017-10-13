@@ -13,11 +13,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.54267216">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file leaf-file-name="Dealer.cs" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Dealer.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/BlackJack/Dealer.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="266">
-                  <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+                <state relative-caret-position="171">
+                  <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
                   <folding>
                     <marker date="1507911182600" expanded="false" signature="6:139" ph="..." />
                     <marker date="1507911182600" expanded="true" signature="160:1468" ph="{...}" />
@@ -32,7 +32,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Player.cs" pinned="false" current-in-tab="false">
+          <file leaf-file-name="Player.cs" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/BlackJack/Player.cs">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="285">
@@ -56,7 +56,7 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-          <file leaf-file-name="Card.cs" pinned="false" current-in-tab="true">
+          <file leaf-file-name="Card.cs" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/BlackJack/Card.cs">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="437">
@@ -81,7 +81,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+          <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/BlackJack/Program.cs">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="399">
@@ -268,12 +268,12 @@
       <workItem from="1506715673409" duration="19754000" />
       <workItem from="1507101894073" duration="3516000" />
       <workItem from="1507188871975" duration="2559000" />
-      <workItem from="1507909161833" duration="2616000" />
+      <workItem from="1507909161833" duration="2739000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28445000" />
+    <option name="totallyTimeSpent" value="28568000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -546,40 +546,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BlackJack/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
-          <folding>
-            <marker date="1507911552349" expanded="false" signature="6:170" ph="..." />
-            <marker date="1507911552349" expanded="true" signature="191:1127" ph="{...}" />
-            <marker date="1507911552349" expanded="true" signature="212:1125" ph="{...}" />
-            <marker date="1507911552349" expanded="true" signature="265:1119" ph="{...}" />
-            <marker date="1507911552349" expanded="true" signature="443:1004" ph="{...}" />
-            <marker date="1507911552349" expanded="true" signature="791:907" ph="{...}" />
-            <marker date="1507911552349" expanded="true" signature="927:990" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BlackJack/Player.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <marker date="1507190282176" expanded="true" signature="34:2389" ph="{...}" />
-            <marker date="1507190282176" expanded="true" signature="60:2383" ph="{...}" />
-            <marker date="1507190282176" expanded="true" signature="197:272" ph="{...}" />
-            <marker date="1507190282176" expanded="true" signature="311:2361" ph="{...}" />
-            <marker date="1507190282176" expanded="true" signature="899:977" ph="{...}" />
-            <marker date="1507190282176" expanded="true" signature="1023:1197" ph="{...}" />
-            <marker date="1507190282176" expanded="true" signature="1309:2337" ph="{...}" />
-            <marker date="1507190282176" expanded="true" signature="1651:2047" ph="{...}" />
-            <marker date="1507190282176" expanded="true" signature="2185:2306" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BlackJack/Card.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
@@ -605,8 +571,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BlackJack/Dealer.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="19" column="51" lean-forward="true" selection-start-line="19" selection-start-column="51" selection-end-line="19" selection-end-column="51" />
+        <state relative-caret-position="171">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
             <marker date="1507911182600" expanded="false" signature="6:139" ph="..." />
             <marker date="1507911182600" expanded="true" signature="160:1468" ph="{...}" />
@@ -616,6 +582,40 @@
             <marker date="1507911182600" expanded="true" signature="686:801" ph="{...}" />
             <marker date="1507911182600" expanded="true" signature="956:1032" ph="{...}" />
             <marker date="1507911182600" expanded="true" signature="1226:1345" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlackJack/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1507190282176" expanded="true" signature="34:2389" ph="{...}" />
+            <marker date="1507190282176" expanded="true" signature="60:2383" ph="{...}" />
+            <marker date="1507190282176" expanded="true" signature="197:272" ph="{...}" />
+            <marker date="1507190282176" expanded="true" signature="311:2361" ph="{...}" />
+            <marker date="1507190282176" expanded="true" signature="899:977" ph="{...}" />
+            <marker date="1507190282176" expanded="true" signature="1023:1197" ph="{...}" />
+            <marker date="1507190282176" expanded="true" signature="1309:2337" ph="{...}" />
+            <marker date="1507190282176" expanded="true" signature="1651:2047" ph="{...}" />
+            <marker date="1507190282176" expanded="true" signature="2185:2306" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlackJack/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="27" column="12" lean-forward="true" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
+          <folding>
+            <marker date="1507911552349" expanded="false" signature="6:170" ph="..." />
+            <marker date="1507911552349" expanded="true" signature="191:1127" ph="{...}" />
+            <marker date="1507911552349" expanded="true" signature="212:1125" ph="{...}" />
+            <marker date="1507911552349" expanded="true" signature="265:1119" ph="{...}" />
+            <marker date="1507911552349" expanded="true" signature="443:1004" ph="{...}" />
+            <marker date="1507911552349" expanded="true" signature="791:907" ph="{...}" />
+            <marker date="1507911552349" expanded="true" signature="927:990" ph="{...}" />
           </folding>
         </state>
       </provider>
