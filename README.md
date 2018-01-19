@@ -10,4 +10,6 @@ This is just a simple and plain Terminel program where the program expects input
 The program also has an option where the user could place their bets each round.
 
 
+*- Khalid B. Said* 
+
 
